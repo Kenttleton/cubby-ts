@@ -1,0 +1,19 @@
+{
+  "name": "cubby-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenttleton/cubby-ts.git"
+  },
+  "author": "H2IC, Kent utterback",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenttleton/cubby-ts/issues"
+  },
+  "homepage": "https://github.com/Kenttleton/cubby-ts#readme"
+}
